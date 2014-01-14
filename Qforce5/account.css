@@ -1,0 +1,24 @@
+.myTable1 { background-color:#E0FFDE;border-collapse:collapse;color:#000;font-size:18px; }
+.myTable1 th { background-color:#33AD5C;color:black; }
+.myTable1 td, .myTable1 th { padding:5px;border:0; }
+.myTable1 td { border-bottom:1px dotted #BDB76B; }
+
+.vspace{
+	margin-bottom:4cm;
+}
+.buttonclass{
+	width:180px;
+	height:50;
+	background-color:#33AD5C;
+}
+.sbuttonclass{
+	width:100px;
+	font-size: 120%;
+	height:40;
+	background-color:#3BE068;
+}
+
+.traintable td{
+	background-color:grey;
+}
+	
